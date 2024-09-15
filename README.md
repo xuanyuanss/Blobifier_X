@@ -1,5 +1,5 @@
 # Blobifier_X
-A variant of a Blobifier--No need for a lifting gantry
+# A variant of a Blobifier--No need for a lifting gantry
 
 Although its physical structure is completely different from Blobifier, it only refers to its nozzle flushing idea, while making targeted modifications in the software part. For the original Blobifier, please go here.
 
@@ -20,17 +20,17 @@ September 1, 2024
 Adjust the blob ejection logic: The last blob of the current flush is ejected when the next flush stops, that is, the printing is restored immediately after the flush ends, without waiting for the Blobifier_X to return to its position, which effectively reduces the overflow of nozzle consumables. Even without a wiping mouth, the wiping tower/heated bed is also very clean.
 
 # Bill of Materials:
- 28BYJ-48 stepper motor x1,
- TMC2209 or other drivers x1,
- ∅5x50 cylindrical pin x2,
- T5 lead screw with nut, length 40 x1,
- D2F-01L micro switch x1,
- M3x4x5 heat melt nut x8,
- M3x3 set screw x4, can also be used on BMG,
- M3x10 round head hex nut x4,
- M3x12 round head hex nut x2,
- M3x16 round head hex nut x1,15x2x75 aluminum bar x1, I used CNC TAP, the length of the aluminum bar may not be suitable for you, please adjust it yourself to extend 4-5mm in front of the nozzle, punch holes according to the figure below.
- Heated bed film 15x15mm x1, textured film, adhesive on the back, about 0.4 thickness, there are many on TB, generally black, buy the smallest specification and cut it yourself.
+28BYJ-48 stepper motor x1,
+TMC2209 or other drivers x1,
+∅5x50 cylindrical pin x2,
+T5 lead screw with nut, length 40 x1,
+D2F-01L micro switch x1,
+M3x4x5 heat melt nut x8,
+M3x3 set screw x4, can also be used on BMG,
+M3x10 round head hex nut x4,
+M3x12 round head hex nut x2,
+M3x16 round head hex nut x1,15x2x75 aluminum bar x1, I used CNC TAP, the length of the aluminum bar may not be suitable for you, please adjust it yourself to extend 4-5mm in front of the nozzle, punch holes according to the figure below.
+Heated bed film 15x15mm x1, textured film, adhesive on the back, about 0.4 thickness, there are many on TB, generally black, buy the smallest specification and cut it yourself.
 
 ![托盘](https://github.com/user-attachments/assets/e8d3d922-50fd-4c07-bbfb-958ced916aef)
 
