@@ -1,5 +1,5 @@
 # Blobifier_X
-## A variant of a Blobifier--No need for a lifting gantry
+## A variant of Blobifier--No need for a lifting gantry
 
 Although its physical structure is completely different from Blobifier, it only refers to its nozzle flushing idea, while making targeted modifications in the software part. For the original Blobifier, please go here [Blobifier](https://github.com/Dendrowen/Blobifier).
 
@@ -7,7 +7,7 @@ The original Blobifier is not friendly to Voron2.4, requiring frequent lifting o
 
 Blobifier_X is installed on the gantry, and it does not need to lower the gantry during flushing. Instead, a small stepper motor is used to achieve the lifting of the tray to facilitate blob formation.
 
-[中文说明在Makerworld](https://makerworld.com.cn/zh/models/448667#profileId-366651).
+[中文说明在Makerworld](https://makerworld.com.cn/zh/models/448667#profileId-366651)。
 
 ![实物图1](https://github.com/user-attachments/assets/d1262b67-59d3-4b80-9c97-b1e5e798edf8)
 ![实物图2](https://github.com/user-attachments/assets/4383e479-40f2-46ec-8ea0-1e32e947f4bb)
