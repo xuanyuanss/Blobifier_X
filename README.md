@@ -7,13 +7,14 @@ The original Blobifier is not friendly to Voron2.4, requiring frequent lifting o
 
 Blobifier_X is installed on the gantry, and it does not need to lower the gantry during flushing. Instead, a small stepper motor is used to achieve the lifting of the tray to facilitate blob formation.
 
+[中文说明在Makerworld](https://makerworld.com.cn/zh/models/448667#profileId-366651).
+
 ![实物图1](https://github.com/user-attachments/assets/d1262b67-59d3-4b80-9c97-b1e5e798edf8)
 ![实物图2](https://github.com/user-attachments/assets/4383e479-40f2-46ec-8ea0-1e32e947f4bb)
 ![示意图 (2)](https://github.com/user-attachments/assets/9eef6366-32ae-49b3-8fce-8e302e3ef834)
 ![示意图 (5)](https://github.com/user-attachments/assets/869ce4ad-7e9c-406a-a5ad-c970504d72c1)
 ![示意图 (8)](https://github.com/user-attachments/assets/d8d18a2d-6b3f-4eb7-9d41-6e1db2315fcd)
 ![示意图 (1)](https://github.com/user-attachments/assets/b998a76f-3b49-49fa-954d-2f793d8f75f5)
-
 
 # Update Description:
 ## 2024年9月1日
