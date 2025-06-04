@@ -1,4 +1,5 @@
 # 已更新至V2版本，结构和程序均均完成了大更新！！！
+## [V2版本链接](https://github.com/xuanyuanss/Blobifier_X-V2) https://github.com/xuanyuanss/Blobifier_X-V2
 
 # Blobifier_X
 ## A variant of Blobifier--No need for a lifting gantry
